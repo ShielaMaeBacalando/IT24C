@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Jollibee",
+        "title": "My 3 Favorite Food Stops",
+        "description": "A very popular fast food chain in the Philippines , i like eating here because of the chickenjoy fried chicken here is crispy and juicy.",
+        "img": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyoA21IpVpceBtXsILdDkX2bSUn1NYv8sMAsWQ4IXB8kW9Nsu3JEVMIQ6adiXyV27ppV9B0Xz2zWTMB0trlBxyzm-n1xEsaugLYIq90p_ZfdP15JZ-8-6vy6zJtEIdaMQ3dg_bL=s1360-w1360-h1020-rw",
+        "lat": 8.367379,
+        "lng": 124.865343 
+    },
+    {
+        "name": "Minute Burger",
+        "title": "My 3 Favorite Food Stops",
+        "description": "Because of its buy 1 take 1 burger offers and its affordable price.",
+        "img":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MsqAua0JhCukF_QeTNPaIg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=188.41313&pitch=0&thumbfov=100",
+        "lat":8.367612,
+        "lng":124.864847 
+    },
+
+    {
+        "name": "7- Eleven",
+        "title": "My 3 Favorite Food Stops",
+        "description": "Diverse food choices",
+        "img":"https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw--KrS-zgw31dhh6Xhq_DWGu-015YOVU-Jv2UvlC-U59ho4WBumQTrmsx5Z8R6n6j0F-2DBwg7Z_GD7YWKmB9TJZlVzTRTS7xvqVL05V1aQ_7ahm7DH46L1xlEoG8-yCG4z3sksA=s1360-w1360-h1020-rw",
+        "lat":8.367506,
+        "lng":124.865075 
+    }
+]
